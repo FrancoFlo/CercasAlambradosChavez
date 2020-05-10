@@ -64,8 +64,11 @@ Archivos de Configuración
 Después de completar el proceso de instalación del software, el usuario ("operador") tendrá habilitadas las funciones de visualización y elaboración de cotizaciones, por ejemplo:
 
   Registrar a un nuevo cliente para poder generar cotización de servicio
+  
   Llenar formulario de datos
+  
   Formulario de datos (Nombre, Empresa, Direccion, Telefono, Mail)
+  
   Registro de datos en BD
   Almacenar información de clientes en la base de datos del sistema.
   El sistema deberá asignar un identificador a la cotización que se realice para las solicitudes de los clientes.
@@ -73,8 +76,8 @@ Después de completar el proceso de instalación del software, el usuario ("oper
  
 Los niveles de acceso a los que tiene permiso el usuario que será determinado como administrador, podrá hacer uso de las siguientes funciones, adicional a que tiene habilitados todas las funciones para el usuario de tipo "operador":
 
-Modificar el cátalogo de productos
-Modificar el cátalogo de servicios
+ Modificar el cátalogo de productos
+ Modificar el cátalogo de servicios
  Edición de los costos establecidos en las cotizaciones.
  Aprobación de cotizaciones generadas por otros usuarios.
  Agregar productos o servicios al sistema
