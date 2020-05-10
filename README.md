@@ -61,3 +61,34 @@ Archivos de Configuración
   > .gitconfig
   
 # Uso
+Después de completar el proceso de instalación del software, el usuario ("operador") tendrá habilitadas las funciones de visualización y elaboración de cotizaciones, por ejemplo:
+
+  > Registrar a un nuevo cliente para poder generar cotización de servicio
+  > Llenar formulario de datos
+  > Formulario de datos (Nombre, Empresa, Direccion, Telefono, Mail)
+  > Registro de datos en BD
+  > Almacenar información de clientes en la base de datos del sistema.
+  > El sistema deberá asignar un identificador a la cotización que se realice para las solicitudes de los clientes.
+  > Acceso a Interfaz para generar calculos de cotización
+ 
+Los niveles de acceso a los que tiene permiso el usuario que será determinado como administrador, podrá hacer uso de las siguientes funciones, adicional a que tiene habilitados todas las funciones para el usuario de tipo "operador":
+
+ > Modificar el cátalogo de productos
+ > Modificar el cátalogo de servicios
+ > Edición de los costos establecidos en las cotizaciones.
+ > Aprobación de cotizaciones generadas por otros usuarios.
+ > Agregar productos o servicios al sistema
+ > Cancelación de registros de clientes
+ > Cancelación de cotizaciones.
+
+# Contribución
+Para que otros desarrolladores de software puedan contribuir en la mejora, modificación, actualización o ampliación del alcance del sistema, deben respetar la estructura del software, trabajando con el mismo esquema establecido.
+
+Se debe llevar a cabo la clonación del repositorio, asegurando que esta sincrinizado todo el repositorio desde la raiz, para tener visibilidad a todos los archivos contenidos.
+
+Una vez realizada la propuesta de modificaciones, se debe realizar un pull request para que el administrador del repositorio pueda analizar las contribuciones de los usuarios.
+
+Una vez aprobado el pullrequest, se realiza el merge para incluir los cambios en la última versión del repositorio
+
+
+  
