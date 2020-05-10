@@ -20,11 +20,16 @@ El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico que separa una a
 
 # Tabla de Contenidos (ToC)
 - [Cercas y Alambrados Chavez](#cercas-y-alambrados-chavez)
-- [Descripción](#descripción)
-- [Justificación](#justificación)
+- [Descripción](#descripci-n)
+- [Justificación](#justificaci-n)
 - [Objetivo](#objetivo)
-- [Solución](#solución)
+- [Solución](#soluci-n)
 - [Arquitectura](#arquitectura)
+- [Tabla de Contenidos (ToC)](#tabla-de-contenidos--toc-)
+- [Requerimientos](#requerimientos)
+- [Instalación](#instalaci-n)
+- [Configuración](#configuraci-n)
+- [Uso](#uso)
 
 # Requerimientos
 Sistema operativo: Windows XP, Vista, 7, 8, 10 ó los equivalentes Windows Server (2003, 2008, 2012 y 2016)
