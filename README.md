@@ -39,6 +39,20 @@ En primer lugar clonar el repositorio en nuestro servidor:
 git clone https://github.com/FrancoFlo/CercasAlambradosChavez
 Definir URL base en application/config/config.php
 
-$config['base_url'] = 'http://misitio.com/mi_carpeta/';
-En caso de querer modificar los tipos de cotización del selector, se pueden configurar desde application/config/config.php.
+Una vez instalada la aplicación, podemos llevar a cabo pruebas del funcionamiento del software. Éstas pueden ser pruebas manuales, en las que llevamos a cabo la ejecucion de la aplicación.
 
+Debemos realizar un ejercicio de cotización con el método con el que lleva a cabo la actividad antes de usar el sistema de cotización, esto servira para asegurar que el sistema funciona de forma esperada.
+
+Si has seguido los pasos correctamente, se habrá generado la instalación del sistema. Si has tenido problemas durante la instalación, vamos a asegurarnos de que disponemos de las últimas versiones de Java, y de la versión que es recomendable de Windows.
+
+# Configuración
+Configuración de los requerimientos
+  > Asegurar que se cuenta con la versión de Windows
+  > Asegurar que se cuenta con la versión de Java
+  > Contar con la memoria RAM determinado en los requerimientos
+  > Asegurar que se cuenta con conexión a internet.
+  
+Archivos de Configuración
+  > .gitconfig
+  
+# Uso
