@@ -30,6 +30,7 @@ El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico que separa una a
 - [Instalación](#instalaci-n)
 - [Configuración](#configuraci-n)
 - [Uso](#uso)
+- [Contribución](#contribuci-n)
 
 # Requerimientos
 Sistema operativo: Windows XP, Vista, 7, 8, 10 ó los equivalentes Windows Server (2003, 2008, 2012 y 2016)
